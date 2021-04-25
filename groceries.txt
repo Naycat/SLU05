@@ -3,3 +3,5 @@ juice
 cereals
 cookies
 butter
+eggs
+milk
